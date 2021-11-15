@@ -20,35 +20,42 @@ We computed a total of 4 deep learning models. The best model had an accuracy of
 
 Model # 1 specs
 
+![image](https://user-images.githubusercontent.com/82011523/141741353-708da506-c864-4e1b-9bf0-d10fce9fcf95.png)
 
 
 Model # 1 accuracy and loss
 
+![image](https://user-images.githubusercontent.com/82011523/141741438-88635f69-b146-4b5c-ad62-4e6cf52fc467.png)
 
 
 Model # 2 specs
 
+![image](https://user-images.githubusercontent.com/82011523/141741498-b527299c-60a6-4a98-b0da-78e4b4eef400.png)
 
 
 Model # 2 accuracy and loss
 
-
+![image](https://user-images.githubusercontent.com/82011523/141741559-54ef9832-66c7-4c8e-af3a-6c8aa602fa17.png)
 
 
 Model # 3 specs
 
+![image](https://user-images.githubusercontent.com/82011523/141741645-225420a8-a328-4480-8b82-7ee08a637372.png)
 
 
 Model # 3 accuracy and loss
 
-
+![image](https://user-images.githubusercontent.com/82011523/141741716-bd1124ae-7f2b-4749-85cf-7fa4c76d8fdf.png)
 
 
 Model # 4 specs
 
+![image](https://user-images.githubusercontent.com/82011523/141741775-b7fb21c7-52ed-4e25-8385-5246deb766a4.png)
 
 
 Model # 4 accuracy and loss
+
+![image](https://user-images.githubusercontent.com/82011523/141741878-89ac2559-6100-4cc7-a386-3fa4c11e9bfd.png)
 
 
 #  Conclusion
