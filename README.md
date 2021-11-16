@@ -8,6 +8,11 @@ The purpose of this module was to determine the accuracy of deep learning models
 
 A non-profit foundation, Alphabet Soup, provided a CSV file containing more than 34,000 organizations that received funding over the years. The data file consisted of 9-relevant features and 1 outcome (Is_Successful).
 
+### Tools
+
+**  Google Collab notebook
+**  Modules: tensorflow, Keras-tuner, sklearn, 
+
 ## Steps
 
 *  Preprocess the data
