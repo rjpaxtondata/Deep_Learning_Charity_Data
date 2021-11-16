@@ -10,8 +10,8 @@ A non-profit foundation, Alphabet Soup, provided a CSV file containing more than
 
 ### Tools
 
-**  Google Collab notebook
-**  Modules: tensorflow, Keras-tuner, sklearn, 
+*  Notebook: Google Collab notebook <br>
+*  Modules: tensorflow, Keras-tuner, and sklearn <br> 
 
 ## Steps
 
